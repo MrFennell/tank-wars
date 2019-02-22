@@ -1,0 +1,26 @@
+{
+  "name": "tank-wars",
+  "version": "1.0.0",
+  "description": "Multiplayer Tank Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFennell/tank-wars.git"
+  },
+  "keywords": [
+    "tank"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFennell/tank-wars/issues"
+  },
+  "homepage": "https://github.com/MrFennell/tank-wars#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
